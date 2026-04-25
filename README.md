@@ -40,9 +40,9 @@ Simultaneously, the ESP32 hosts a web server over Wi-Fi that displays the system
 
 ---
 
-## 🖼️ Project Images
+## 🖼️ Project Image
 
-### 🔌 Circuit Diagram
+### 🔌 Circuit 
 ![Circuit](images/Circuit.jpeg)
 
 ---
